@@ -1,8 +1,6 @@
 
 #  LandFlix 🍿
 
-![LandFlix_Logo](https://cdn.discordapp.com/attachments/1180867937096175689/1494767425248559367/landflix.png?ex=69e3ce25&is=69e27ca5&hm=8c9ba8833c82af16ac429670ddac469ed0a3d2a0092051bd4eb46bf7ecfca04f&)
-
 > **LandFlix** est une plateforme de streaming moderne, rapide et immersive.
 > Pas de prise de tête, juste du contenu à la hauteur de Netflix 🎥🔥
 
